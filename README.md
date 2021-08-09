@@ -17,6 +17,7 @@
   - 基于`Web3.js`实现的Nodejs包: [htdf_web3](./demos/web3_htdf_demos)
 
 - 🔌 [mainnet](./mainnet): HTDF主网相关
+  - [HTDF2.0如何搭建节点?](./mainnet/htdf2.0_node.md)
   - [如何搭建HTDF节点?](./mainnet/README.md)
 
 - 🔍[resources](./resources): 相关资源
